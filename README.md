@@ -25,9 +25,8 @@ I like to meet and network with new people including or excluding my niche, I pr
 <img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
-<br>
-<br>
-<hr>
+<br></br>
+<br></br>
 
 ### Connect with me:
 
