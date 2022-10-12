@@ -1,16 +1,56 @@
-### Hi there 👋
+## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Harsh!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshhes&color=brightgreen" alt="harshhes"/> </p>
 
-<!--
-**harshhes/harshhes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>I'm a self-taught computer programmer with a passion for building things. I am self-motivated, and believe in the power of software to make people's lives better.
+I'm always looking for opportunities to scale my skillset.
+I like to meet and network with new people including or excluding my niche, I prefer learning from my failures instead of losing my cool.</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :hammer_and_wrench: Languages and Tools :
+<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Git" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img align="left" alt="HTML" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="left" alt="Bash" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Django" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Github" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="mysql" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="vim" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="linux" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Canva" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img align="left" alt="vscode" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
+<br>
+<br>
+<hr>
+
+### Connect with me:
+
+<a href="https://www.instagram.com/harshhes/">
+  <img align="left" alt="Harsh's Instagram" width="50px" src="https://github.com/wle8300/instagram-logo/blob/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" />
+</a>
+<a href="https://twitter.com/harshhes">
+  <img align="left" alt="twitter" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harsh-gupta-89a529233/">
+  <img  align="left" alt="Harsh's LinkedIN" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<br/>
+<br>
+<hr>
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact: I prefer Apple over Pizza, are we the same?
+<hr>
+
+### Statistics:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshhes&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
