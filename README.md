@@ -34,7 +34,7 @@ I like to meet and network with new people including or excluding my niche, I pr
   <img align="left" alt="Harsh's Instagram" width="50px" src="https://github.com/wle8300/instagram-logo/blob/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" />
 </a>
 <a href="https://twitter.com/harshhes">
-  <img align="left" alt="twitter" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="twitter" width="50px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harsh-gupta-89a529233/">
   <img  align="left" alt="Harsh's LinkedIN" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
