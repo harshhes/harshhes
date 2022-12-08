@@ -16,14 +16,16 @@ I like to meet and network with new people including or excluding my niche, I pr
 <img align="left" alt="CSS" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" alt="Bash" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Django" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Flask" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="Github" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Docker" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+<img align="left" alt="postgresql" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
 <img align="left" alt="mysql" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="vim" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="linux" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Canva" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="left" alt="vscode" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
 <br></br>
 <br></br>
