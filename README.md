@@ -23,9 +23,12 @@ I like to meet and network with new people including or excluding my niche, I pr
 <img align="left" alt="mysql" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="vim" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="linux" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Canva" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<img align="left" alt="vscode" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="aws" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" />
+<img align="left" alt="graphql" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" />
+<img align="left" alt="kubernetes" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" />
+<img align="left" alt="lua" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
+<img align="left" alt="redis" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" />
+<img align="left" alt="postman" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
 
 <br></br>
 <br></br>
