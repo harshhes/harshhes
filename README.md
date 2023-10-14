@@ -28,7 +28,8 @@ I like to meet and network with new people including or excluding my niche, I pr
 <img align="left" alt="kubernetes" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" />
 <img align="left" alt="lua" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
 <img align="left" alt="redis" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" />
-<img align="left" alt="postman" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
+<img align="left" alt="javascript" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 <br></br>
 <br></br>
