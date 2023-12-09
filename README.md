@@ -9,7 +9,7 @@ I like to meet and network with new people including or excluding my niche, I pr
 </div>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Git" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="left" alt="HTML" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
